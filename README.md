@@ -1,5 +1,5 @@
    I’m Kuresoi Joseph lekatoo,
- I'm students passionate IT practitioner, current at KCA UNIVERITY studying BSC. IT
+ passionate IT practitioner, current at KCA UNIVERITY studying BSC. IT
 
 
 <!---
